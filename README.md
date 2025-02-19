@@ -1,7 +1,12 @@
-# TAJ_Portfolio
-This portfolio serves as my professional profile to demonstrate my technical expertise, creativity, and passion for building impactful solutions. It's designed to make a strong impression on HR professionals, recruiters, and collaborators.
+TAJ_Portfolio
+
+
+This portfolio serves as my professional profile to demonstrate my technical expertise, creativity, and passion for building impactful solutions.
+It's designed to make a strong impression on HR professionals, recruiters, and collaborators.
+
 🌟 Personal Portfolio Website
-This portfolio serves as my professional profile to demonstrate my technical expertise, creativity, and passion for building impactful solutions. It's designed to make a strong impression on HR professionals, recruiters, and collaborators.
+This portfolio serves as my professional profile to demonstrate my technical expertise, creativity, and passion for building impactful solutions.
+It's designed to make a strong impression on HR professionals, recruiters, and collaborators.
 
 🖥️ Features
 Dynamic Contact Form: User inputs are securely stored in the backend using MongoDB.
