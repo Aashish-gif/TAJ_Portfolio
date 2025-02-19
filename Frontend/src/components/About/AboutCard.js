@@ -14,7 +14,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hello World! I am <span className="purple">Tejwani Aashish Jitendrakumar(TAJ)</span> 
-            from <span className="purple">[Your City, Country]</span>.
+            from <span className="purple">[Ahmedabad,India]</span>.
             <br />
             I am a passionate software developer with a boundless curiosity for innovation and technology.
             <br />
